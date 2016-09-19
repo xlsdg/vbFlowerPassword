@@ -1,4 +1,2 @@
-vbFlowerPassword
-================
-
-Flower Password in Visual Basic
+# vbFlowerPassword
+Flower Password implementation for Visual Basic.
